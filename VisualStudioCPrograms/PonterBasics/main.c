@@ -1,3 +1,5 @@
+
+/* pointer basics file */
 #include <stdio.h>
 #include <string.h>
 #define SIZE 5
