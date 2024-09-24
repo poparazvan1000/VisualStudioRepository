@@ -9,6 +9,7 @@ void swap(int* a, int* b);
 void squareInteger(int* x);
 
 int main() {
+	/***********************************************/
 	printf("******* PointerBasics ******\n\n");
 
 	int myVariable = 15;
